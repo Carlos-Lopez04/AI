@@ -42,16 +42,6 @@ El modelo actualmente puede identificar las posturas de la 1ra forma que los cin
 - **Entrenamiento**: Realizado con Teachable Machine
 - **Clases**: Múltiples posturas de TaeKwonDo
 
-# 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas agregar más posturas o mejorar el modelo:
-
-1. Haz un fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-postura`)
-3. Commit tus cambios (`git commit -m 'Agregar nueva postura'`)
-4. Push a la rama (`git push origin feature/nueva-postura`)
-5. Abre un Pull Request
-
 # 📄 Licencia
 
 Este proyecto es de uso académico para la Universidad Autónoma de Baja California.
