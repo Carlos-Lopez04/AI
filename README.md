@@ -7,7 +7,7 @@ Este proyecto implementa un modelo de inteligencia artificial para identificar y
 Puedes probar el clasificador directamente en tu navegador sin necesidad de descargar o instalar nada:
 
 ### 🔗 **Enlace de Visualización Directa**
-**[Haz clic aquí para abrir el clasificador](https://carlos-lopez04.github.io/AI/)**
+**[Pagina del Sistema](https://carlos-lopez04.github.io/AI/)**
 
 *Nota: Asegúrate de permitir el acceso a la cámara web cuando el navegador lo solicite.*
 
@@ -28,3 +28,36 @@ Puedes probar el clasificador directamente en tu navegador sin necesidad de desc
 # 🥋 Posturas Soportadas
 
 El modelo actualmente puede identificar las posturas de la 1ra forma que los cintas blancas puedan realizar.
+
+# 🛠️ Tecnologías Utilizadas
+
+- **Teachable Machine** - Entrenamiento del modelo de IA
+- **TensorFlow.js** - Ejecución del modelo en el navegador
+- **JavaScript** - Lógica de la aplicación
+- **HTML/CSS** - Interfaz de usuario
+
+# Acerca del Modelo
+
+- **Tipo**: Clasificación de imágenes por movimiento
+- **Entrenamiento**: Realizado con Teachable Machine
+- **Clases**: Múltiples posturas de TaeKwonDo
+
+# 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas agregar más posturas o mejorar el modelo:
+
+1. Haz un fork del proyecto
+2. Crea una rama para tu feature (`git checkout -b feature/nueva-postura`)
+3. Commit tus cambios (`git commit -m 'Agregar nueva postura'`)
+4. Push a la rama (`git push origin feature/nueva-postura`)
+5. Abre un Pull Request
+
+# 📄 Licencia
+
+Este proyecto es de uso académico para la Universidad Autónoma de Baja California.
+
+## 👨‍💻 Autor
+
+**Carlos Alberto Lopez Ramirez**  
+Licenciatura en Inteligencia de Negocios  
+Universidad Autónoma de Baja California
