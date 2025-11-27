@@ -6,8 +6,11 @@ Este proyecto implementa un modelo de inteligencia artificial para identificar y
 
 Puedes probar el clasificador directamente en tu navegador sin necesidad de descargar o instalar nada:
 
-### 🔗 **Enlace de Visualización Directa**
+### 🔗 **Enlaces de Visualización**
+**[Video presentacion](https://youtu.be/5KSUW7ONItw)**
+
 **[Pagina del Sistema](https://carlos-lopez04.github.io/AI/)**
+
 
 *Nota: Asegúrate de permitir el acceso a la cámara web cuando el navegador lo solicite.*
 
